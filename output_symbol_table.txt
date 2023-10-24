@@ -1,0 +1,7 @@
+Pozitie | Atom lexical
+5        | 10
+3        | 5
+6        | PROGRAM_OUT
+1        | main
+2        | x
+4        | y

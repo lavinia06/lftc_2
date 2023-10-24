@@ -1,0 +1,13 @@
+def main()[
+     int x == 5.
+     int y == 10.
+
+    if (x > y) [
+         write_console("x is greater than y").
+    ] else [
+        write_console("x is not greater than y").
+    ]
+
+]
+
+    PROGRAM_OUT.
